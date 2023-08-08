@@ -10,5 +10,5 @@ The program works fine if the correct data is supplied. However, the following a
 
 Any help will be much appreciated.
 ```
-To run this program, download the \`main.cpp\` file and run in code blocks
+To run this program, download the `main.cpp` file and run in code blocks
 ```
