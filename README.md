@@ -9,5 +9,6 @@ The program works fine if the correct data is supplied. However, the following a
 - trying to work on stabilizing/ specifying the range of the `So` and `porosity` values. It should be within `0-1` 
 
 Any help will be much appreciated.
-<hr>
+```
 To run this program, download the `main.cpp` file and run in code blocks
+```
