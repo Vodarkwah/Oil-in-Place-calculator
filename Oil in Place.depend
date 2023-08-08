@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691386782 source:d:\programming\c projects\oil in place\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+
